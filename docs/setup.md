@@ -1,4 +1,4 @@
-# SETUP.md — Panduan Laboratorium Aman (v3ilshadow)
+# Panduan Laboratorium Aman (v3ilshadow)
 
 > Dokumen ini menjelaskan langkah-langkah **non-operasional** dan praktik terbaik untuk menyiapkan lingkungan latihan yang aman. **Tidak** ada perintah yang menjalankan atau membuat malware di dokumen ini.
 

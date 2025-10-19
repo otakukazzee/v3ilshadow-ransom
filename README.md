@@ -21,13 +21,10 @@ Repository ini dibuat untuk tujuan **analisis forensik, edukasi, dan pengujian d
 ## 🧩 Konten repo
 ```
 v3ilshadow/
-├─ analysis/            # Analisis statis script (penjelasan bagian demi bagian)
-├─ iocs/                # Daftar IoC (nama file, ekstensi, string ransom note, user-agent)
-├─ sim/                 # Simulasi non-destruktif (log generator, dummy files)
+├─ iocs/                # Daftar IoC (nama file, ekstensi, string ransom note)
 ├─ docs/
 │  ├─ SETUP.md          # Petunjuk aman setup lab (VM snapshot, air-gapped)
 │  └─ PLAYBOOK.md       # Playbook IR (langkah-langkah high-level)
-├─ notebooks/           # Notebook analisis (visualisasi, korelasi log)
 ├─ tests/               # Unit tests untuk generator log sintetis
 └─ README.md
 ```

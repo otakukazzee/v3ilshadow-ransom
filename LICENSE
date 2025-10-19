@@ -1,0 +1,69 @@
+# SARDIDEV PROPRIETARY LICENSE
+
+Version: 1.1
+Effective Date: October 19, 2025
+Copyright (c) 2025 Sardidev. All rights reserved.
+
+---
+
+## SUMMARY (Plain English)
+
+This is a proprietary (closed-source) license. The Author (Sardidev) retains all rights. You are granted a limited, non-exclusive, non-transferable, revocable license to use the software only as expressly permitted below. Redistribution, modification, sublicensing, sale, or any public distribution of the software (in source or object form) is strictly prohibited unless you obtain a separate written agreement from Sardidev.
+
+---
+
+## FULL TEXT
+
+1. Definitions
+   a. "Software" means the source code, binaries, documentation, scripts, examples, and other materials provided by Sardidev and expressly covered by this License.
+   b. "Licensee" means the individual or legal entity that obtains a copy of the Software under this License.
+   c. "Use" means to install, run, execute, or otherwise interact with the Software for the Licensee's internal purposes.
+
+2. Grant of License
+   Subject to the terms and conditions of this License, Sardidev grants the Licensee a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to Use the Software solely for Licensee's internal, non-distributable purposes.
+
+3. Restrictions
+   Except as expressly permitted in Section 2, the Licensee shall not, and shall not permit any third party to:
+   a. copy, reproduce, distribute, sell, lease, rent, sublicense, publish, or otherwise transfer the Software (in whole or in part) to any third party;
+   b. modify, prepare derivative works of, decompile, disassemble, reverse engineer, or otherwise attempt to derive the source code of the Software;
+   c. remove, alter, or obscure any copyright, trademark, or other proprietary notices contained in or on the Software;
+   d. use the Software to provide services to third parties (including, without limitation, hosting, managed services, or commercial SaaS offerings) without a separate written agreement with Sardidev;
+   e. export or re-export the Software in violation of any applicable laws or regulations.
+
+   **Specific Restriction for `main.py`:**
+   The file `main.py` is a core protected component of the Software. Modification, alteration, renaming, recompilation, decryption, or replacement of `main.py` in any form is strictly prohibited without the prior written consent of Sardidev. Any attempt to modify or bypass `main.py` will result in immediate termination of this License and may constitute a legal violation under applicable intellectual property laws.
+
+4. Ownership
+   The Software is licensed, not sold. Sardidev and its licensors retain all right, title, and interest in and to the Software, including all intellectual property rights. No rights are granted to the Licensee except as expressly set forth in this License.
+   The file `main.py` and its logic are considered the proprietary and confidential property of Sardidev.
+
+5. Fees
+   No rights to use, distribute, or modify the Software are granted under this License for commercial distribution. Any commercial use, redistribution, or sublicensing requires a separate paid license or written permission from Sardidev.
+
+6. Termination
+   This License is effective until terminated. Sardidev may terminate this License immediately upon written notice if the Licensee breaches any term of this License. Upon termination, the Licensee must cease all Use of the Software and, if requested by Sardidev, destroy or return all copies of the Software and related materials.
+
+7. Warranty Disclaimer
+   THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. SARDIDEV DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+8. Limitation of Liability
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL SARDIDEV BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES, OR ANY LOSS OF PROFITS OR REVENUES, WHETHER INCURRED DIRECTLY OR INDIRECTLY, OR ANY LOSS OF DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES, RESULTING FROM: (A) THE USE OR INABILITY TO USE THE SOFTWARE; (B) ANY UNAUTHORIZED ACCESS TO OR USE OF SARDIDEV'S SYSTEMS OR DATA; OR (C) ANY OTHER MATTER RELATED TO THE SOFTWARE.
+
+9. Indemnification
+   The Licensee agrees to indemnify, defend, and hold harmless Sardidev and its officers, directors, employees, agents, and affiliates from and against any and all claims, liabilities, damages, losses, and expenses (including reasonable attorneys' fees) arising out of or in any way connected with the Licensee's breach of this License or the Licensee's use of the Software.
+
+10. Governing Law and Jurisdiction
+    This License shall be governed by and construed in accordance with the laws of the Republic of Indonesia, without regard to its conflict of law principles. The parties submit to the exclusive jurisdiction of the courts located in Indonesia for any dispute arising out of or relating to this License.
+
+11. Miscellaneous
+    a. If any provision of this License is held to be unenforceable, that provision will be enforced to the maximum extent permissible and the remaining provisions will remain in full force and effect.
+    b. This License constitutes the entire agreement between the parties with respect to the Software and supersedes all prior or contemporaneous agreements and understandings, whether written or oral.
+
+---
+
+## Contact
+
+Created by: Sardidev
+If you need a commercial license, redistribution rights, or custom terms, contact Sardidev to request a separate written license agreement.
+
+[End of License]

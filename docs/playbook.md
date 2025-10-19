@@ -1,4 +1,4 @@
-# PLAYBOOK.md — Playbook Incident Response (Ransomware-style Simulation)
+# Playbook Incident Response (Ransomware-style Simulation)
 
 > Playbook ini ditulis untuk mendukung latihan IR dan prosedur respons pada insiden yang menyerupai ransomware. Dokumen ini hanya berisi langkah-langkah high-level, checklist dan template komunikasi — tanpa instruksi teknis yang dapat digunakan untuk menyerang sistem.
 

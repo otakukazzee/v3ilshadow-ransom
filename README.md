@@ -1,5 +1,3 @@
-# README.md
-
 # v3ilshadow — Analisis & Simulasi Edukatif (Repo Forensik / Defensif) 🛡️
 
 **Peringatan penting ⚠️**  

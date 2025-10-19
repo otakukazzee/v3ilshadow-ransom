@@ -23,7 +23,7 @@ v3ilshadow/
 ├─ docs/
 │  ├─ SETUP.md          # Petunjuk aman setup lab (VM snapshot, air-gapped)
 │  └─ PLAYBOOK.md       # Playbook IR (langkah-langkah high-level)
-├─ tests/               # Unit tests untuk generator log sintetis
+├─ License               # License
 └─ README.md
 ```
 
